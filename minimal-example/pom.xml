@@ -5,6 +5,7 @@
       <groupId>uk.ac.cam.cl.dtg</groupId>
       <artifactId>parent</artifactId>
       <version>1.0.2</version>
+      <relativePath></relativePath>
     </parent>
     <groupId>uk.ac.cam.cl.dtg.snowdon</groupId>
     <artifactId>minimal-example</artifactId>
