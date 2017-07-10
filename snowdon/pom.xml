@@ -10,7 +10,7 @@
     <groupId>uk.ac.cam.cl.dtg.snowdon</groupId>
     <artifactId>Snowdon</artifactId>
     <version>1.0.0</version>
-    <packaging>apklib</packaging> 
+    <packaging>aar</packaging> 
     <name>Snowdon</name>
 
     
